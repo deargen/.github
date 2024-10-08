@@ -6,5 +6,8 @@
 ## Project management
 - [workflows](https://github.com/deargen/workflows): GitHub Actions reusable workflows and composite actions.
 
-## Binary releases
+## Binary as a python package
+- [py-reduce-binary](https://github.com/deargen/py-reduce-binary): Install reduce with pip
+
+## Pure binary releases
 - [reduce-binary](https://github.com/deargen/reduce-binary): Automatically build [reduce](https://github.com/rlabduke/reduce) and publish it
