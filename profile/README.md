@@ -8,6 +8,7 @@
 
 ## Binary as a python package
 - [py-reduce-binary](https://github.com/deargen/py-reduce-binary): Install [reduce](https://github.com/rlabduke/reduce) with pip
+- [py-apbs-binary](https://github.com/deargen/py-apbs-binary): Install [APBS](https://github.com/Electrostatics/apbs) with pip
 
 ## Pure binary releases
 - [reduce-binary](https://github.com/deargen/reduce-binary): Automatically build [reduce](https://github.com/rlabduke/reduce) and publish it
