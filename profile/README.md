@@ -5,6 +5,7 @@
 - [biotest](https://github.com/deargen/biotest): Compare PDB files, allowing small precision error
 
 ## Project management
+- [python-project-template-2024](https://github.com/deargen/python-project-template-2024): All good practices in python packaging in one repo.
 - [workflows](https://github.com/deargen/workflows): GitHub Actions reusable workflows and composite actions.
 
 ## Binary as a python package
