@@ -6,7 +6,7 @@
 
 ## Project management
 - [python-project-template-2024](https://github.com/deargen/python-project-template-2024): All good practices in python packaging in one repo.
-- [workflows](https://github.com/deargen/workflows): GitHub Actions reusable workflows and composite actions.
+- [workflows](https://github.com/deargen/workflows): GitHub Actions reusable workflows and composite actions, plus some python project helper tools `projector`
 
 ## Binary as a python package
 - [py-reduce-binary](https://github.com/deargen/py-reduce-binary): Install [reduce](https://github.com/rlabduke/reduce) with pip
